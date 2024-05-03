@@ -1,3 +1,5 @@
+![logo](https://github.com/tuhin-sarkar-it/Tuhin-Sarkar/blob/main/githme.png)
+
 <h1 align="center">Hi 👋, I'm Tuhin Sarkar</h1>
 <h3 align="center">A passionate developer and designer from India</h3>
 
